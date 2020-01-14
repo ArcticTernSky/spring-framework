@@ -1,4 +1,4 @@
-package org.springframework;
+package org.springframework.entry;
 
 import org.springframework.config.SchoolConfig;
 import org.springframework.context.ApplicationContext;
