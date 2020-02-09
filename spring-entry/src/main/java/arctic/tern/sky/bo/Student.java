@@ -1,4 +1,4 @@
-package org.springframework.bo;
+package arctic.tern.sky.bo;
 
 /**
  * Created by wushaofeng on 2020/1/18.
